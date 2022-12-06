@@ -1,5 +1,10 @@
 # kavak-clone-api
-## Using pre-commit to run linters automatically
+
+## Rodar a API
+```bash
+python manage.py runserver
+```
+
 ## Usando pre-commit para rodar linters automaticamente
 
 Esta disponivel um hook pre-commit (.pre-commit.config.yaml), para instalar basta rodar:  
